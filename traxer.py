@@ -148,7 +148,7 @@ def pause():
 
 
 def ask(prompt):
-    return input(c(f"➜ {prompt}: ", "cyan")).strip()-e 
+    return input(c(f"➜ {prompt}: ", "cyan")).strip()
 
 # ╔══════════════════════════════════════════════════════════════════╗
 # ║  SECCIÓN: RED Y RECONOCIMIENTO                                     ║
